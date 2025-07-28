@@ -249,7 +249,7 @@ Planned features and improvements:
 Need assistance? Here are your options:
 
 - **🐙 GitHub Issues**: [Report bugs or request features](https://github.com/rishik0821/Expense-Tracker/issues)
-- **📧 Email**: [email](sairishik589@gmail.com)
+- **📧 Email**: [sairishik589@gmail.com]
 - **💬 Discussions**: [GitHub Discussions](https://github.com/rishik0821/Expense-Tracker/discussions)
 
 ## 📄 License
